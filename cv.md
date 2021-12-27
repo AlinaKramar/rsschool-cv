@@ -18,7 +18,18 @@ I want to become a good frontend developer with RSSchool
 ## Experience
 > This section will be updated soon
 
-
+## Code Example
+```
+const reverse = (str) => {
+    let i = str.length-1;
+    let result ='';
+    while (i>=0) {
+        result=result+str[i];
+        i=i-1;
+        }
+    return result;
+    };
+```
 
 ## Education
 * Saint Petersburg Electrotechnical University 'LETI'
