@@ -14,3 +14,17 @@ I want to become a good frontend developer with RSSchool
 * JavaScript
 * Git
 * Figma
+
+## Experience
+> This section will be updated soon
+
+
+
+## Education
+* Saint Petersburg Electrotechnical University 'LETI'
+* HTML Academy (HTML, CSS)
+* Code Basics (HTML, CSS, JS)
+
+## Languages
+* Russian - Native
+* English - A2
